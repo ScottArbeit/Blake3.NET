@@ -1,5 +1,8 @@
 # Changelog
 
+## Unreleased
+- Update to BLAKE3 1.8.2
+
 ## 0.5.1
 - Fix bug in Blake3Stream.Read methods 
 
