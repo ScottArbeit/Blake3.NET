@@ -5,7 +5,7 @@ authors = ["Alexandre Mutel <alexandre_mutel@live.com>"]
 edition = "2018"
 
 [dependencies]
-blake3 = "1.5.5"
+blake3 = "1.8.2"
 libc = "0.2.169"
 
 [profile.release]
